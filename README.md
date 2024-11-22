@@ -1,1 +1,1 @@
-# sine-language-detection
+# sign-language-detection
